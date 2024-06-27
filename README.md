@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate **Machine Learning Engineer** with a solid foundation in programming languages such as **Java**, **Python**, **C++**, **R**, **TensorFlow**, **DeepLearning**. I enjoy solving complex problems and creating efficient machine learning models that drive innovation and success.
+I'm a passionate **Machine Learning Engineer** with a solid foundation in programming languages such as **Java**, **Python**, **C++**, **R**, **TensorFlow**, and **DeepLearning**. I enjoy solving complex problems and creating efficient machine learning models that drive innovation and success.
 
 - 🌱 I’m currently exploring the latest advancements in machine learning and artificial intelligence.
 - 💬 Ask me about data science, machine learning algorithms, and software development.
