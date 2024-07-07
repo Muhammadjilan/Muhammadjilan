@@ -54,7 +54,7 @@ I'm a passionate **Machine Learning Engineer** with a solid foundation in progra
 Here are some of the projects I've worked on:
 
 - [**Project 1**](https://github.com/Garasee) - Garasee aims to provide users with an efficient means of assessing the acceptability of various cars based on multiple factors such as price, maintenance cost, and technical characteristics. However, the challenge lies in accurately evaluating the acceptability of a car while considering these diverse attributes and their interrelationships. Thus, there is a need to develop a robust model that can effectively integrate and analyze the input attributes to provide reliable car acceptability assessments.
-- [**Project 2**](https://github.com/AndiAlifs/chatbot_filkom) - The implementation of a chatbot in education, particularly at FILKOM UB, addresses issues such as student volume, resource efficiency, and support for students with disabilities. The research utilizes ticketing log data from HALOFILKOM and employs the CRISP-DM method to develop a deep neural network-based chatbot model capable of processing both text and voice inputs. Evaluation via the User Experience Questionnaire (UEQ) indicates effectiveness and efficiency, with the optimal model configuration consisting of 128 units in each of the first and second layers, along with a dropout layer set at 0.1 units. Test results demonstrate an overall positive user experience with FILKOMBOT, particularly with the integration of voice recognition functionality, as evidenced by increased UEQ scores.
+- [**Project 2**](https://github.com/AndiAlifs/chatbot_filkom) - Filkom Chatbot is a machine learning based chatbot that can respond user input message to a proper responds, such as greeting, asking name, etc.
 
 ## Get In Touch
 
